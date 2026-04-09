@@ -126,6 +126,7 @@ php artisan serve
 * Arthur
 * Apollo
 * Francisco
+* Giovanni Zollo
 
 ---
 
